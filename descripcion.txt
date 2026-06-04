@@ -1,1 +1,2 @@
 Sitema de Gestion de Arriendos Evohka
+Modulo de registro propiedades
