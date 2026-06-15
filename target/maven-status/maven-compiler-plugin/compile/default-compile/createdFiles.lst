@@ -1,0 +1,6 @@
+com\evohka\evohkapropiedades\dao\PropiedadDAO.class
+com\evohka\evohkapropiedades\modelo\Propiedad.class
+com\evohka\evohkapropiedades\conexion\ConexionBD.class
+com\evohka\evohkapropiedades\EvohkaPropiedades.class
+com\evohka\evohkapropiedades\vista\FrmPropiedad.class
+com\evohka\evohkapropiedades\vista\FrmPropiedad$1.class
